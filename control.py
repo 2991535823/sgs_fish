@@ -1,5 +1,4 @@
 from os import times_result
-
 import pyautogui
 import random
 import time
