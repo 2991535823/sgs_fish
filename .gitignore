@@ -2,7 +2,6 @@
 ./dist
 ./encrypt
 ./.idea
-./.pyarmor
 ./__pycache__
 ./*.spec
 ./resource
